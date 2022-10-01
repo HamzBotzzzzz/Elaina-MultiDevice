@@ -53,6 +53,8 @@ https://github.com/Rlxfly
 https://github.com/Aiinne
 *❉ Papah-Chan:*
 https://github.com/FahriAdison
+*❉ IlhamGanz:v:*
+https://github.com/HamzBotzzzzz
 *▸ - - - —「 Penulis Ulang 」— - - - ◂*
 *❉ ImYanXiao:*
 https://github.com/ImYanXiao
@@ -66,10 +68,10 @@ https://github.com/ImYanXiao
 
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/Xiao_yan_21",
+    mediaUrl: "https://Instagram.com/hamzz_jr",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/Xiao_yan_21", 
-    title: 'Elaina-MultiDevice',
+    description: "https://Instagram.com/hamzz_jr", 
+    title: 'ZxynnBoTz-MD',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
