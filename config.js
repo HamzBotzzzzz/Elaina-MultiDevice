@@ -47,27 +47,27 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/danibotz_official' //Link Instagrammu
-global.sgh = 'https://github.com/YTDANIBOTZ' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/DyBMXDw1IshFM9z0ZHZNlR'
+global.sig = 'https://instagram.com/hamzz_jr' //Link Instagrammu
+global.sgh = 'https://github.com/HamzBotzzzzz' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/FdP0znFDbNWKkleGN6bhxx'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '081251549899' //Nomor Danamu
-global.ppulsa = '081251549899' //Nomor SimCard Yang Kamu Pake
-global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '088214989352' //Nomor Danamu
+global.ppulsa = '088214989352' //Nomor SimCard Yang Kamu Pake
+global.psaweria = 'https://saweria.com/ZxynnBotz' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281352848936' //Nomor Bot
-global.nomorown = '6281251549899' //Nomor Owner
-global.namebot = 'Elaina BOT' //Nama Bot
-global.nameown = 'DaniXd' // Nama Owner
+global.nomorbot = '48729756052' //Nomor Bot
+global.nomorown = '6288214989352' //Nomor Owner
+global.namebot = 'ZxynnBoTz-MD' //Nama Bot
+global.nameown = 'IlhamGanz??' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281251549899', '❦ DaniXd? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6288214989352', '❦ IlhamGanzz?? 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,12 +99,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᴇʟᴀɪɴᴀ - ᴄʜᴀɴ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ᴇʟᴀɪɴᴀ 𝙱𝙾𝚃'
+global.wm = '                「 ZxynnBoTz-MD 汉  」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Zxynn - BoTz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ IlhamGanz??'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
-global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊ ZxynnBoTz By IlhamGanz'
 global.author = global.wm
 global.logo = 'https://ibb.co/17RY7x9'
 
